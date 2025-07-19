@@ -53,7 +53,7 @@ Trained using the Adam optimizer and categorical cross-entropy loss.
 ### 1. Clone the repository
 ```bash
 git clone https://github.com/rajjaiswal159/CIFAR10-Image-Classification-using-CNN.git
-cd cifar10-cnn-classification
+cd CIFAR10-Image-Classification-using-CNN
 ```
 2. Install dependencies
 ```
