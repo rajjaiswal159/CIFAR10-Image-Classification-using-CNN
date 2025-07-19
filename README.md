@@ -45,7 +45,6 @@ Trained using the Adam optimizer and categorical cross-entropy loss.
 - Python 🐍
 - TensorFlow / Keras
 - Matplotlib
-- NumPy
 
 ---
 
